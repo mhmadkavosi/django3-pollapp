@@ -1,2 +1,2 @@
 # django3-pollapp
-This website is course of <a href="djangoproject.com"> django site</a> pollapp
+This website is course of 'www.djangoproject.com' pollapp
