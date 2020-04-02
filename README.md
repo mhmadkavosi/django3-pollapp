@@ -4,7 +4,7 @@ This website is course of https://docs.djangoproject.com/en/3.0/intro/ pollapp
 
 # TODO : 
 
-[x] - Part 1 <br>
+- [] Part 1 <br>
 [ ] - Part 2 <br>
 [ ] - Part 3 <br>
 [ ] - Part 4 <br>
