@@ -8,6 +8,6 @@ This website is course of https://docs.djangoproject.com/en/3.0/intro/ pollapp
 - [x] Part 2 <br>
 - [x] Part 3 <br>
 - [x] Part 4 <br>
-- [ ] Part 5 <br>
-- [ ] Part 6 <br>
-- [ ] Part 7 <br>
+- [x] Part 5 <br>
+- [x] Part 6 <br>
+- [x] Part 7 <br>
